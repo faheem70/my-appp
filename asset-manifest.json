@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-appp/static/css/main.073c9b0a.css",
+    "main.js": "/my-appp/static/js/main.a047444a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-appp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-appp/index.html",
+    "main.073c9b0a.css.map": "/my-appp/static/css/main.073c9b0a.css.map",
+    "main.a047444a.js.map": "/my-appp/static/js/main.a047444a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-appp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a047444a.js"
+  ]
+}
